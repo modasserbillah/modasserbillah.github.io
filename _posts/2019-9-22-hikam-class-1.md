@@ -5,13 +5,12 @@ tags:
   - Dr. Shadee el masry
 author: Modasser Billah
 location: Comilla, Bangladesh
-summary: "Hikam of Ibn Ata Allah al iskandari, chapter 1: Knowledge"
-timeToRead: 5
+title: Hikam::Class-1
+description: "Hikam of Ibn Ata Allah al Iskandari, chapter 1: Knowledge"
+readingTime: 5
 # you can add a custom image to the public directory then just put the url here for example /images/....
-headerImage: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
+image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 ---
-
-# Hikam::Class-1
 
 ## Chapter-1: Knowledge
 

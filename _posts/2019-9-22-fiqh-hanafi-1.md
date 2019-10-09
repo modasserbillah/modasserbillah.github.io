@@ -8,15 +8,12 @@ tags:
   - Interactions
 author: Modasser Billah
 location: Comilla, Bangladesh
-summary: ""
-timeToRead: 5
+title: Fiqh of Interactions(Hanafi)::Class-1
+description: "Discussions on slaughtering animals"
+readingTime: 2
 # you can add a custom image to the public directory then just put the url here for example /images/....
-headerImage: "https://source.unsplash.com//BKZzaP7jc0Y/800x400"
+image: "https://source.unsplash.com//BKZzaP7jc0Y/800x400"
 ---
-
-# Fiqh of Interactions(Hanafi)::Class-1
-
-
 
 - Islam has 5 branches:
 	- Beliefs (Aqeedah)

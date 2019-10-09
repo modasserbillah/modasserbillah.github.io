@@ -2,14 +2,14 @@
   <div id="base-list-layout">
     <div class="ui-posts">
       <div class="ui-post" v-for="page in pages">
-        <div class="ui-post-img" :style="{backgroundImage: `url(${page.frontmatter.headerImage}`}"></div>
+        <div class="ui-post-img" :style="{backgroundImage: `url(${page.frontmatter.image}`}"></div>
         <div>
           <div class="ui-post-title">
             <NavLink :link="page.path">{{ page.title }}</NavLink>
           </div>
 
           <div class="ui-post-summary">
-            {{ page.frontmatter.summary || page.summary }}
+            {{ page.frontmatter.description || page.description }}
             <!-- <Content :page-key="page.key" slot-key="intro"/>-->
           </div>
           <hr />
@@ -19,9 +19,9 @@
               <span>{{ page.frontmatter.author }} in {{ page.frontmatter.location }}</span>
             </div>
 
-            <div class="ui-post-read" v-if="page.frontmatter.timeToRead">
+            <div class="ui-post-read" v-if="page.frontmatter.readingTime">
               <ClockIcon />
-              <span>{{ page.frontmatter.timeToRead }} min read</span>
+              <span>{{ page.frontmatter.readingTime }} min read</span>
             </div>
 
             <div class="ui-post-date" v-if="page.frontmatter.date">
@@ -196,5 +196,3 @@ export default {
 </style>
 
 <style src="prismjs/themes/prism-okaidia.css"></style>
-
-

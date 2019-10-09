@@ -25,6 +25,9 @@ module.exports = {
       //   link: "/pages/about/"
       // }
     ],
+    disqus: "https-wonderful-pare-b8e3cb-netlify-com", // if you want to incorporate Disqus for comments replace this value else just get rid of it
+    socialShare: true, // enables social share
+    socialShareNetworks: ["facebook", "twitter"], // required for social share plugin
     footer: {
       // contact: [
       //   {
