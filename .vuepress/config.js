@@ -1,53 +1,53 @@
 module.exports = {
-  title: "Vuepress blog template",
-  description: "vuepress blog template",
+  title: "Uwaylim Course notes",
+  description: "",
   theme: "@vuepress/theme-blog",
   themeConfig: {
-    personalPhoto: "/images/personalPhoto.png", // the base directory for this image is the public directory
-    fullName: "Ahmad Mostafa", // appears in about page
-    bio:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam voluptas nam dolorum minus consequuntur fugit quis repellendus hic vero praesentium facilis amet minima officia impedit, expedita quo veniam perferendis.", // appears in about page
+    // personalPhoto: "/images/personalPhoto.png", // the base directory for this image is the public directory
+    // fullName: "", // appears in about page
+    // bio:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam voluptas nam dolorum minus consequuntur fugit quis repellendus hic vero praesentium facilis amet minima officia impedit, expedita quo veniam perferendis.", // appears in about page
     nav: [
       {
         text: "Home",
         link: "/"
       },
-      {
-        text: "Archive",
-        link: "/archive/"
-      },
+      // {
+      //   text: "Archive",
+      //   link: "/archive/"
+      // },
       {
         text: "Tags",
         link: "/tag/"
-      },
-      {
-        text: "About",
-        link: "/pages/about/"
       }
+      // {
+      //   text: "About",
+      //   link: "/pages/about/"
+      // }
     ],
     footer: {
-      contact: [
-        {
-          type: "github",
-          link: "https://github.com/z3by/"
-        },
-        {
-          type: "instagram",
-          link: "https://instagram.com/z3bya/"
-        },
-        {
-          type: "facebook",
-          link: "https://facebook.com/ahmad.mostafa.z3by/"
-        },
-        {
-          type: "linkedin",
-          link: "https://www.linkedin.com/in/z3by/"
-        },
-        {
-          type: "twitter",
-          link: "https://twitter.com/ahmad_mostafa10/"
-        }
-      ],
+      // contact: [
+      //   {
+      //     type: "github",
+      //     link: "https://github.com/z3by/"
+      //   },
+      //   {
+      //     type: "instagram",
+      //     link: "https://instagram.com/z3bya/"
+      //   },
+      //   {
+      //     type: "facebook",
+      //     link: "https://facebook.com/ahmad.mostafa.z3by/"
+      //   },
+      //   {
+      //     type: "linkedin",
+      //     link: "https://www.linkedin.com/in/z3by/"
+      //   },
+      //   {
+      //     type: "twitter",
+      //     link: "https://twitter.com/ahmad_mostafa10/"
+      //   }
+      // ],
       copyright: [
         {
           text: "Privacy Policy",
@@ -56,6 +56,10 @@ module.exports = {
         {
           text: `MIT Licensed | Copyright © ${new Date().getFullYear()}-present`,
           link: ""
+        },
+        {
+          text: "Safina Society website",
+          link: "https://www.safinasociety.org/adults"
         }
       ]
     }
