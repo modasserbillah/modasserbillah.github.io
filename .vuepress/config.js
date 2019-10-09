@@ -111,6 +111,7 @@ module.exports = {
       }
     ],
     ["@vuepress/back-to-top"],
-    ["@vuepress/last-updated"]
+    ["@vuepress/last-updated"],
+    ["vuepress-plugin-disqus"]
   ]
 };
