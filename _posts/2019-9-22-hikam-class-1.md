@@ -11,6 +11,7 @@ readingTime: 5
 # you can add a custom image to the public directory then just put the url here for example /images/....
 image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 ---
+<h3 style="text-align: center;"> &#xFDFD;</h3>
 
 ## Chapter-1: Knowledge
 

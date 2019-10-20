@@ -112,6 +112,20 @@ module.exports = {
     ],
     ["@vuepress/back-to-top"],
     ["@vuepress/last-updated"],
-    ["vuepress-plugin-disqus"]
+    ["vuepress-plugin-disqus"],
+    ["vuepress-plugin-seo"],
+    ["vuepress-plugin-sitemap"],
+    ["vuepress-plugin-smooth-scroll"],
+    ["vuepress-plugin-social-share"],
+    ["vuepress-plugin-reading-time"],
+    ["vuepress-plugin-reading-progress"],
+    ["vue-feather-icons"],
+    ["remove-markdown"],
+    ["@vuepress/theme-blog"],
+    ["@vuepress/plugin-search"],
+    ["@vuepress/plugin-pwa"],
+    ["@vuepress/plugin-nprogress"],
+    ["@vuepress/plugin-medium-zoom"],
+    ["@vuepress/plugin-google-analytics"]
   ]
 };

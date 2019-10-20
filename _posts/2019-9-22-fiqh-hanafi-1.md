@@ -14,6 +14,7 @@ readingTime: 2
 # you can add a custom image to the public directory then just put the url here for example /images/....
 image: "https://source.unsplash.com//BKZzaP7jc0Y/800x400"
 ---
+<h3 style="text-align: center;"> &#xFDFD;</h3>
 
 - Islam has 5 branches:
 	- Beliefs (Aqeedah)
