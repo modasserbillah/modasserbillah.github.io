@@ -6,6 +6,7 @@ tags:
   - Hanafi
   - Fiqh
   - Interactions
+  - Animals
 author: Modasser Billah
 location: Comilla, Bangladesh
 title: Fiqh of Interactions(Hanafi)::Class-1

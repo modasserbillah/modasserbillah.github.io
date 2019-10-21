@@ -69,7 +69,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 
 > ### Hikam#50: There is no minor sin when His justice confronts you; and there is no major sin when His grace confronts you.
 
-- In fiqhi discussions sins are categorized as:\
+- In fiqhi discussions sins are categorized as:
 	- _Mubiqat_ - Deadly sins
 	- _Kabair_ - Major sins
 	- _Saghair_- Minor sins
