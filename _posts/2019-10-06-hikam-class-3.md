@@ -3,6 +3,7 @@ date: 2019-10-6
 tags:
   - Hikam
   - Dr. Shadee el masry
+  - Sincerity
 author: Modasser Billah
 location: Comilla, Bangladesh
 title: Hikam::Class-3
@@ -27,7 +28,8 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 
 ## Chapter: Sincerity
 
-> ### Hikam#10: Actions are lifeless forms, but the presence of an inner reality of sincerity (sirr al-ikhlāṣ) within them is what endows them with life-giving Spirit.
+> ### Hikmah#10
+Actions are lifeless forms, but the presence of an inner reality of sincerity (sirr al-ikhlāṣ) within them is what endows them with life-giving Spirit.
 
 - Acts without sincerity are like dead bodies without soul.
 - Rows, straight lines represent reason and intellect.
@@ -35,7 +37,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 - For example, times for prayers are fixed.
 - The best actions that Allah loves are disciplined consistent systematic ones.
 
-> ### Hikam#20 :
+> ### Hikmah#20
 > Hardly does the intention of the initiate
 want to stop at what has been revealed to him,
 than the voices of Reality call out to him:
@@ -51,7 +53,7 @@ than their inner realities call out to him:
 - Spirituality has its pitfalls.
 - You need to be firmly grounded in _shariah_ before delving into _tasawwuf_.
 
-> Hikam#42:\
+> ### Hikmah#42
 > Travel not from creature to creature,\
 otherwise you will be like a donkey at the mill:\
 Roundabout he turns, his goal the same as his departure.\
@@ -65,13 +67,13 @@ or marriage with a woman\
 then his flight is for that which he flees to.”\
 So understand his words &#xfdfa;\
 and ponder this matter, if you can.\
-And peace on you!\
+And peace on you!
 
 - What’s exciting is not the goal, what pleases Allah is.
 - Be a people of duties, disciplines and obligations, not pleasure seekers.
 - The sign of true sincerity is consistency through thick and thin.
 
-> ### Hikam#58
+> ### Hikmah#58
 > Let not obedience make you joyous because it comes from you;\
 but rather, be joyous over it\
 because it comes from God to you.\
@@ -81,10 +83,10 @@ It is better than that which they hoard.”
 
 - _Lost during loss of transmission_
 
-> ### Hikam#51
+> ### Hikmah#51
 > No deed is more fruitful for the heart than the one you are not aware of and which is deemed paltry by you.
 
-> ### Hikam#89
+> ### Hikmah#89
 > Our Lord is far above the servant\
 > dealing with Him in cash, and His repaying him in credit.
 
@@ -92,7 +94,7 @@ It is better than that which they hoard.”
 - Allah’s rewards start from this life and extend to the hereafter.
 - If drugs and alcohols are forbidden in a community, problems drop in half, that’s a reward within itself.
 
-> ### Hikam#90
+> ### Hikmah#90
 > It is reward enough for worship that He has accepted you as worthy of it.
 
 - Stay consistent in the worship and practices and that will keep pushing the ummah through.

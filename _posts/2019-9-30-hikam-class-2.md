@@ -3,6 +3,7 @@ date: 2019-9-30
 tags:
   - Hikam
   - Dr. Shadee el masry
+  - Repentance
 author: Modasser Billah
 location: Comilla, Bangladesh
 title: Hikam::Class-2
@@ -15,7 +16,8 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 
 ## Sins, passions and Repentance
 
-> ### Hikam#13:  How can the heart be illumined while the forms of creatures are reflected in its mirror?...
+> ### Hikmah#13
+ How can the heart be illumined while the forms of creatures are reflected in its mirror?...
 
 
 - Obstacles that prevent the dhikr of Allah to enter the heart:
@@ -67,7 +69,8 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 
 - Allah will not open the doors to His subtle wisdoms and secrets except to the _Tawwabin_ (those who repent).
 
-> ### Hikam#50: There is no minor sin when His justice confronts you; and there is no major sin when His grace confronts you.
+> ### Hikmah#50
+There is no minor sin when His justice confronts you; and there is no major sin when His grace confronts you.
 
 - In fiqhi discussions sins are categorized as:
 	- _Mubiqat_ - Deadly sins
@@ -81,7 +84,8 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 - The sins of a mu'min will never outweigh the mercy of Allah.
 - If you're penitent, then Allah is forgiving.
 
->### Hikmah#148: When a sin is committed by you do not let it make you despair of attaining uprightness with your Lord, for that one may be the last ever destined for you to commit.
+>### Hikmah#148
+When a sin is committed by you do not let it make you despair of attaining uprightness with your Lord, for that one may be the last ever destined for you to commit.
 
 - Umar &#x613; was an idol worshipper and went on to became the second khalifah and part of ahl al bait ( by marrying Ali's &#x613; daughter).
 
