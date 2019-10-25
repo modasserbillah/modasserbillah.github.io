@@ -70,7 +70,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 - Allah will not open the doors to His subtle wisdoms and secrets except to the _Tawwabin_ (those who repent).
 
 > ### Hikmah#50
-There is no minor sin when His justice confronts you; and there is no major sin when His grace confronts you.
+> #### There is no minor sin when His justice confronts you; and there is no major sin when His grace confronts you.
 
 - In fiqhi discussions sins are categorized as:
 	- _Mubiqat_ - Deadly sins
@@ -84,8 +84,8 @@ There is no minor sin when His justice confronts you; and there is no major sin 
 - The sins of a mu'min will never outweigh the mercy of Allah.
 - If you're penitent, then Allah is forgiving.
 
->### Hikmah#148
-When a sin is committed by you do not let it make you despair of attaining uprightness with your Lord, for that one may be the last ever destined for you to commit.
+> ### Hikmah#148
+> #### When a sin is committed by you do not let it make you despair of attaining uprightness with your Lord, for that one may be the last ever destined for you to commit.
 
 - Umar &#x613; was an idol worshipper and went on to became the second khalifah and part of ahl al bait ( by marrying Ali's &#x613; daughter).
 

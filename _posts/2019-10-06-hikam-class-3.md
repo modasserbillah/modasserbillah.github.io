@@ -29,7 +29,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 ## Chapter: Sincerity
 
 > ### Hikmah#10
-Actions are lifeless forms, but the presence of an inner reality of sincerity (sirr al-ikhlāṣ) within them is what endows them with life-giving Spirit.
+>#### Actions are lifeless forms, but the presence of an inner reality of sincerity (sirr al-ikhlāṣ) within them is what endows them with life-giving Spirit.
 
 - Acts without sincerity are like dead bodies without soul.
 - Rows, straight lines represent reason and intellect.
@@ -38,7 +38,7 @@ Actions are lifeless forms, but the presence of an inner reality of sincerity (s
 - The best actions that Allah loves are disciplined consistent systematic ones.
 
 > ### Hikmah#20
-> Hardly does the intention of the initiate
+> #### Hardly does the intention of the initiate
 want to stop at what has been revealed to him,
 than the voices of Reality call out to him:
 “at which you are looking for is still ahead of you.” And hardly to the exterior aspects of created beings display their charms,
@@ -54,7 +54,7 @@ than their inner realities call out to him:
 - You need to be firmly grounded in _shariah_ before delving into _tasawwuf_.
 
 > ### Hikmah#42
-> Travel not from creature to creature,\
+> #### Travel not from creature to creature,\
 otherwise you will be like a donkey at the mill:\
 Roundabout he turns, his goal the same as his departure.\
 Rather, go from creatures to the Creator:\
@@ -74,7 +74,7 @@ And peace on you!
 - The sign of true sincerity is consistency through thick and thin.
 
 > ### Hikmah#58
-> Let not obedience make you joyous because it comes from you;\
+> #### Let not obedience make you joyous because it comes from you;\
 but rather, be joyous over it\
 because it comes from God to you.\
 “Say: In the grace of God and in His mercy,\
@@ -84,10 +84,10 @@ It is better than that which they hoard.”
 - _Lost during loss of transmission_
 
 > ### Hikmah#51
-> No deed is more fruitful for the heart than the one you are not aware of and which is deemed paltry by you.
+> #### No deed is more fruitful for the heart than the one you are not aware of and which is deemed paltry by you.
 
 > ### Hikmah#89
-> Our Lord is far above the servant\
+> #### Our Lord is far above the servant\
 > dealing with Him in cash, and His repaying him in credit.
 
 - Do not think you will only be rewarded in the hereafter.
@@ -95,7 +95,7 @@ It is better than that which they hoard.”
 - If drugs and alcohols are forbidden in a community, problems drop in half, that’s a reward within itself.
 
 > ### Hikmah#90
-> It is reward enough for worship that He has accepted you as worthy of it.
+> #### It is reward enough for worship that He has accepted you as worthy of it.
 
 - Stay consistent in the worship and practices and that will keep pushing the ummah through.
 

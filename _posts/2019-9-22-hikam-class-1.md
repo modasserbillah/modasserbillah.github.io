@@ -28,7 +28,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 - Tasawwuf is the categorization of verses and hadith about the heart. Just like Fiqh is the categorization of verses and hadith related to the body. And Aqeeda likewise about belief.
 
 > ### Hikmah#231
->Useful knowledge is that whose light rays spread in the chest and tear away the veil from the heart.
+> #### Useful knowledge is that whose light rays spread in the chest and tear away the veil from the heart.
 
 - Secular studies divorce practice from knowledge.
 - Islam being treated like a dead horse. Good analogy for intellectual gymnastics.
@@ -43,12 +43,12 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 - True knowledge is that which transmits noor from books/teachers to the students.
 
 > ### Hikmah#232
->The best knowledge is that which is accompanied by godfearingness.
+> #### The best knowledge is that which is accompanied by godfearingness.
 
 - The knowledge which removes obstacles to _khashya_ and the knowledge that helps attain _khashya_.
 
 > ### Hikmah#233
->If knowledge is accompanied by godfearingness, it is for your favor, else, it is to your detriment.
+> #### If knowledge is accompanied by godfearingness, it is for your favor, else, it is to your detriment.
 
 - Be totally against secular studies on Islam.
 - Knowledge must come with action.

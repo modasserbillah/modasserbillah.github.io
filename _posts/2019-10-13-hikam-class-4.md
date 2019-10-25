@@ -18,7 +18,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 # Hikam::Class-4
 
 > ### Hikmah#91
-> Reward enough for workers is what He disclosed unto their hearts in His worship, and that which He shows them of His kindliness.
+> #### Reward enough for workers is what He disclosed unto their hearts in His worship, and that which He shows them of His kindliness.
 
 - _Jazaa_ => Compensation
 	- This is for everyone according to their deed.
@@ -32,7 +32,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 	- Or due to a sin.
 
 > ### Hikmah#92
-> Whoever worships Him for something they hope from Him, or obeys Him to keep chastisement from coming to themselves, has not given His attributes their due.
+> #### Whoever worships Him for something they hope from Him, or obeys Him to keep chastisement from coming to themselves, has not given His attributes their due.
 
 - But it’s okay to worship Him for something or fearing punishment.
 - It’s a higher station to worship Allah because of Him being the God.
@@ -46,7 +46,7 @@ image: "https://source.unsplash.com//8vyCtLPlEBo/800x400"
 	- Allah uses this in Quran as well saying what the enemy fights for is not the same as what the muslims stand to gain.
 
 > ### Hikmah#121
-> When you seek recompense for a deed,
+> #### When you seek recompense for a deed,
 the reality of sincerity in it is demanded of you in return.
 As for the insincere,
 the feeling of security from chastisement suffices him.
@@ -63,12 +63,12 @@ the feeling of security from chastisement suffices him.
 - Whenever someone does not believe the threats from Allah and doesn’t fear them, that becomes his worst punishment in this world.
 
 > ### Hikmah#122
-> Do not seek recompense for a deed whose doer was not you. It suffices you as recompense for the deed that He accepts it.
+> #### Do not seek recompense for a deed whose doer was not you. It suffices you as recompense for the deed that He accepts it.
 
 - Do not credit yourself for the acts of worship you do. Rather Allah enabled, nay rewarded you with the privilege to do it.
 
 > ### Hikmah#132
-> You are more in need of His forbearance when you obey Him than you are when you disobey Him.
+> ####  You are more in need of His forbearance when you obey Him than you are when you disobey Him.
 
 - _Hilm_ => Slowness to anger.
 - When you do good, you represent goodness in the eyes of the sinner. So, now if you mess up, you have misrepresented your God and your prophet.
@@ -82,20 +82,20 @@ the feeling of security from chastisement suffices him.
 - If you can’t forget it, the cure is to keep company with the blue collar muslim => average pious muslims => the people you find in the masjid at Fajr and Esha.
 
 > ### Hikmah#160
-> Perhaps showing off in good works has entered upon you from where people do not see you.
+> #### Perhaps showing off in good works has entered upon you from where people do not see you.
 
 - _Riya_ can be as subtle as a small black ant on a black rock on a dark night.
 - Ask Allah for removing _Riya_.
 - _Fee khayr wa lutf wa ‘aafiya_ : make duas like that with this phrase, so that Allah makes the process easy for you.
 
 > ### Hikmah#161
-> Your wanting people to know your specialness is a proof for your lack of truthfulness in your slavehood.
+> #### Your wanting people to know your specialness is a proof for your lack of truthfulness in your slavehood.
 
  - If you want people to know _I’m this , I’m that_ , then this indicates a lack of sincerity in you. But this is regarding worship and work for Allah, not professional work or career.
  - Don’t confuse this with worldly affairs.
 
-> Hikmah#162
-> Vanish from sight the eyes of people on you with the eye of God on you. And be absent from their coming towards you by seeing God approaching you.
+> ### Hikmah#162
+> #### Vanish from sight the eyes of people on you with the eye of God on you. And be absent from their coming towards you by seeing God approaching you.
 
 ### QA
 - What if somebody worships Allah regardless of punishment or reward?
@@ -117,6 +117,6 @@ the feeling of security from chastisement suffices him.
 		- _lam yakullahu kufuwan ahad_ => None like unto Him, absence of any attribute that created beings possess.
 - How to deal with arrogance related to worldly achievements?
 	- This is less serious but still a negative.
-	- First benefit is that people won’t like you.
+	- First harm is that people won’t like you.
 	- If you can’t cure yourself the last medicine is humiliation, failure.
-	- But if you can’t check it, Allah will humiliate you in the end.
+	- And if you can’t check it, Allah will humiliate you in the end.
