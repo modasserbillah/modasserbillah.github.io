@@ -1,12 +1,22 @@
 module.exports = {
-  title: "Uwaylim Course notes",
+  title: "Modasser Billah",
   description: "",
   theme: "@vuepress/theme-blog",
   themeConfig: {
-    // personalPhoto: "/images/personalPhoto.png", // the base directory for this image is the public directory
-    // fullName: "", // appears in about page
-    // bio:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam voluptas nam dolorum minus consequuntur fugit quis repellendus hic vero praesentium facilis amet minima officia impedit, expedita quo veniam perferendis.", // appears in about page
+    personalPhoto: "/images/op.png", // the base directory for this image is the public directory
+    fullName: "Modasser Billah", // appears in about page
+    bio:
+    `AHM Modasser Billah. Nicknamed Tishad. \
+      I write codes for a living and\
+       blogs for fun. So, don't mind the sporadic posts.\
+       \
+      Interested in software engineering and data science,\
+      also in books and  comics. Currently working remotely as a \
+      Lead Software Engineer for BriteCore. You can check out my full \
+      profile and certifications on Linkedin.\
+      You can also have a chat about any of my interests or your interests \
+      and projects, just hit me up at any of my listed social medias to get \
+      in contact.`, // appears in about page
     nav: [
       {
         text: "Home",
@@ -19,21 +29,21 @@ module.exports = {
       {
         text: "Tags",
         link: "/tag/"
+      },
+      {
+        text: "About",
+        link: "/pages/about/"
       }
-      // {
-      //   text: "About",
-      //   link: "/pages/about/"
-      // }
     ],
-    disqus: "https-wonderful-pare-b8e3cb-netlify-com", // if you want to incorporate Disqus for comments replace this value else just get rid of it
+    // disqus: "https-wonderful-pare-b8e3cb-netlify-com", // if you want to incorporate Disqus for comments replace this value else just get rid of it
     socialShare: true, // enables social share
     socialShareNetworks: ["facebook", "twitter"], // required for social share plugin
     footer: {
-      // contact: [
-      //   {
-      //     type: "github",
-      //     link: "https://github.com/z3by/"
-      //   },
+      contact: [
+        {
+          type: "github",
+          link: "https://github.com/mdoasserbillah/"
+        },
       //   {
       //     type: "instagram",
       //     link: "https://instagram.com/z3bya/"
@@ -42,27 +52,24 @@ module.exports = {
       //     type: "facebook",
       //     link: "https://facebook.com/ahmad.mostafa.z3by/"
       //   },
-      //   {
-      //     type: "linkedin",
-      //     link: "https://www.linkedin.com/in/z3by/"
-      //   },
-      //   {
-      //     type: "twitter",
-      //     link: "https://twitter.com/ahmad_mostafa10/"
-      //   }
-      // ],
+        {
+          type: "linkedin",
+          link: "https://bd.linkedin.com/in/ahm-modasser-billah-6b277aa9"
+        },
+        {
+          type: "twitter",
+          link: "https://twitter.com/billah_tishad/"
+        },
+        {
+          type: "mail",
+          link: "mailto:imtishad@gmail.com"
+        }
+      ],
       copyright: [
+
         {
-          text: "Privacy Policy",
-          link: "https://policies.google.com/privacy?hl=en-US"
-        },
-        {
-          text: `MIT Licensed | Copyright © ${new Date().getFullYear()}-present`,
-          link: ""
-        },
-        {
-          text: "Safina Society website",
-          link: "https://www.safinasociety.org/adults"
+          text: `Modasser Billah | Copyright © ${new Date().getFullYear()}-present`,
+          link: "/"
         }
       ]
     }
@@ -126,6 +133,15 @@ module.exports = {
     ["@vuepress/plugin-pwa"],
     ["@vuepress/plugin-nprogress"],
     ["@vuepress/plugin-medium-zoom"],
-    ["@vuepress/plugin-google-analytics"]
+    ["@vuepress/plugin-google-analytics"],
+    [
+      "vuepress-plugin-mathjax",
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
   ]
 };

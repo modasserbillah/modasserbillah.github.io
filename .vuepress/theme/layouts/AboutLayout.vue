@@ -25,7 +25,8 @@ import {
   FacebookIcon,
   TwitterIcon,
   InstagramIcon,
-  LinkedinIcon
+  LinkedinIcon,
+  MailIcon
 } from "vue-feather-icons";
 
 export default {
@@ -34,7 +35,8 @@ export default {
     FacebookIcon,
     TwitterIcon,
     InstagramIcon,
-    LinkedinIcon
+    LinkedinIcon,
+    MailIcon
   },
 
   methods: {
@@ -50,6 +52,8 @@ export default {
           return "InstagramIcon";
         case "linkedin":
           return "LinkedinIcon";
+        case "mail":
+          return "MailIcon";
         default:
           return "";
       }
@@ -103,7 +107,7 @@ export default {
   h1 {
     margin-top: 0;
     margin-bottom: 0;
-    color: white;
+    color: black;
     text-transform: uppercase;
   }
 

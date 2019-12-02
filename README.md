@@ -1,6 +1,6 @@
-# Class notes from Safina Society Uwaylim Courses
+# Personal Blog of Modasser Billah
 
-A simple vuepress powered blog to host class notes.
+A simple vuepress powered blog to host my sporadic ramblings.
 
 
 ## Authors
