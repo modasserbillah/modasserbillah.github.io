@@ -10,6 +10,7 @@ description: "My brain-dump on Spring framework"
 readingTime: 5
 image: "https://source.unsplash.com/FGXqbqbGt5o/800x400"
 ---
+Recently, I had to dive into Spring Framework for a project at work. I choose Amuthan G's [Spring MVC Beginner's Guide](https://amzn.to/2DBAcVl) to get up to speed quickly. What follows are my brain-dump from what I learned reading the book. 
 
 Spring MVC leverages the MVC ( Model-View-Controller) architecture to provide a framework for building web applications in java. This framework makes it easy to modularize the code for views, data and business logic while providing the high level efficiency of Java. The basic division of work is as follows:
 

@@ -10,6 +10,7 @@ description: "My brain-dump on Spring framework"
 readingTime: 5
 image: "https://source.unsplash.com/FGXqbqbGt5o/800x400"
 ---
+Recently, I had to dive into Spring Framework for a project at work. I choose Amuthan G's [Spring MVC Beginner's Guide](https://amzn.to/2DBAcVl) to get up to speed quickly. What follows are my brain-dump from what I learned reading the book.
 
 Read the first part [here](/2017/11/23/spring-mvc-primer/)
 
@@ -116,4 +117,4 @@ Read the first part [here](/2017/11/23/spring-mvc-primer/)
 
 So, we have discussed all the building blocks in the spring mvc ecosystem and the connections and flows between them. Hopefully, this will serve as a quick guide for checking out important concepts as needed.
 
-*Reference Book: Spring MVC Beginner’s Guide, Amuthan G, Packt Publishing*
+*Reference Book: [Spring MVC Beginner’s Guide, Amuthan G, Packt Publishing](https://amzn.to/2DBAcVl)*
