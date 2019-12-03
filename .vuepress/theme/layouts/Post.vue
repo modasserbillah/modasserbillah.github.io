@@ -11,7 +11,9 @@
       <hr />
       <Content />
       <Toc />
-      <vue-disqus />
+      <ClientOnly v-if="$themeConfig.disqus">
+        <Disqus :shortname="$themeConfig.disqus" />
+      </ClientOnly>
     </main>
   </div>
 </template>

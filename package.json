@@ -39,7 +39,7 @@
     "remove-markdown": "^0.3.0",
     "vue-feather-icons": "^4.21.0",
     "vuepress": "^1.1.0",
-    "vuepress-plugin-disqus-comment": "^0.2.3",
+    "vuepress-plugin-disqus": "^0.1.1",
     "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-reading-progress": "^1.0.7",
     "vuepress-plugin-reading-time": "^0.1.1",
