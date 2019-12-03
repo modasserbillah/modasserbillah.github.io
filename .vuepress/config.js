@@ -120,7 +120,7 @@ module.exports = {
     ["@vuepress/back-to-top"],
     ["@vuepress/last-updated"],
     ["vuepress-plugin-disqus-comment", {
-      shortname: "sleepy-montalcini-0ec249.netlify.com"
+      shortname: "sleepy-montalcini-0ec249-netlify-com"
     }],
     ["vuepress-plugin-seo"],
     ["vuepress-plugin-sitemap"],
