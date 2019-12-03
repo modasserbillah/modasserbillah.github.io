@@ -7693,10 +7693,10 @@ vuepress-plugin-container@^2.0.0:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-disqus@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-disqus/-/vuepress-plugin-disqus-0.1.1.tgz#226cc39d54b8e7cfc330b36a55fbd4c4315faff5"
-  integrity sha512-KBHXR9wbhnMKFJuE1z7hrRSJd7n+FQ/LQxFtOOCsWPVzeJnxjRBVySlRj+m0K9926is8XM/puW1zUAvkDS/dfA==
+vuepress-plugin-disqus-comment@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-disqus-comment/-/vuepress-plugin-disqus-comment-0.2.3.tgz#606c79af48a73ab21af95013154de8c3ddddad30"
+  integrity sha512-M1oBosK3XkXnmFg2MIUI420VRSk7hF0QXXAiyTUVb7tzdzAjKnRLzRAvLcnrLrXq7XklV7wxTa7o6R7NdWlirg==
   dependencies:
     vue-disqus "^3.0.5"
 

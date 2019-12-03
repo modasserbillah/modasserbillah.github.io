@@ -35,7 +35,7 @@ module.exports = {
         link: "/pages/about/"
       }
     ],
-    disqus: "sleepy-montalcini-0ec249.netlify.com", // if you want to incorporate Disqus for comments replace this value else just get rid of it
+    // disqus: "sleepy-montalcini-0ec249.netlify.com", // if you want to incorporate Disqus for comments replace this value else just get rid of it
     socialShare: true, // enables social share
     socialShareNetworks: ["facebook", "twitter"], // required for social share plugin
     footer: {
@@ -119,7 +119,9 @@ module.exports = {
     ],
     ["@vuepress/back-to-top"],
     ["@vuepress/last-updated"],
-    ["vuepress-plugin-disqus"],
+    ["vuepress-plugin-disqus-comment", {
+      shortname: "sleepy-montalcini-0ec249.netlify.com"
+    }],
     ["vuepress-plugin-seo"],
     ["vuepress-plugin-sitemap"],
     ["vuepress-plugin-smooth-scroll"],
