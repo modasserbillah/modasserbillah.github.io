@@ -42,7 +42,7 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/mdoasserbillah/"
+          link: "https://github.com/modasserbillah/"
         },
       //   {
       //     type: "instagram",
