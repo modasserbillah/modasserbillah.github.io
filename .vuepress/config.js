@@ -133,7 +133,11 @@ module.exports = {
     ["@vuepress/plugin-pwa"],
     ["@vuepress/plugin-nprogress"],
     ["@vuepress/plugin-medium-zoom"],
-    ["@vuepress/plugin-google-analytics"],
+    ["@vuepress/plugin-google-analytics",
+      {
+        "ga": "UA-163301873-1"
+      }
+    ],
     [
       "vuepress-plugin-mathjax",
       {
