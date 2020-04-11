@@ -9,7 +9,7 @@ location: Cumilla, Bangladesh
 title: Level Up Your Python Code Reviews
 description: "A guide to more Pythonic code reviews"
 readingTime: 10
-image: "https://source.unsplash.com/feXpdV001o4/800x400"
+image: "https://source.unsplash.com/HdZWKPt7L2o/800x400"
 ---
 
 In the world of software development, there are many things that classes and books will prepare you for. But there are some topics that are often overlooked in learning resources yet hold immense value for the craft. Code review is a topic very high on that list. Knowing to review Python code well can land you into senior positions in no time.

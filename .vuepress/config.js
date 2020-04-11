@@ -133,6 +133,15 @@ module.exports = {
     ["@vuepress/plugin-pwa"],
     ["@vuepress/plugin-nprogress"],
     ["@vuepress/plugin-medium-zoom"],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'tip',
+        defaultTitle: {
+          '/': 'TIP',
+        },
+      },
+    ],
     ["@vuepress/plugin-google-analytics",
       {
         "ga": "UA-163301873-1"
