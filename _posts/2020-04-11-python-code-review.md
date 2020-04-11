@@ -256,7 +256,7 @@ For example, a codebase may have been using single quote docstrings but you pref
 
 > "A Foolish Consistency is the Hobgoblin of Little Minds."
 >
-> - *Guido van Rossum* ([source](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds))
+> -- *Guido van Rossum* ([source](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds))
 
 So, make sure you're locally consistent before trying to achieve a general consistency.
 
@@ -266,7 +266,7 @@ Systems thinking is the ability or skill to perform problem solving in complex s
 
 > The whole is greater than the sum of the parts.
 >
-> - Aristotle
+> -- Aristotle
 
 It's easy to get pulled into the code block under review and forget the bigger picture. So, it's important to step back and think about what the code does without getting into the how immediately. That's where the quote from Aristotle comes into play. The code may work fine in isolation but cause issues when it runs as a part of a system.
 
