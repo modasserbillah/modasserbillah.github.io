@@ -1,5 +1,5 @@
 ---
-date: 2020-4-18
+date: 2020-4-11
 tags:
   - Python
   - code review
@@ -122,6 +122,8 @@ You can read the *Zen of Python* any time you want from a Python shell:
 
 ```shell
 >>> import this
+```
+```
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -129,18 +131,18 @@ Complex is better than complicated.
 Flat is better than nested.
 Sparse is better than dense.
 Readability counts.
-Special cases aren\'t special enough to break the rules.
+Special cases aren't special enough to break the rules.
 Although practicality beats purity.
 Errors should never pass silently.
 Unless explicitly silenced.
 In the face of ambiguity, refuse the temptation to guess.
 There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you\'re Dutch.
+Although that way may not be obvious at first unless you're Dutch.
 Now is better than never.
 Although never is often better than *right* now.
-If the implementation is hard to explain, it\'s a bad idea.
+If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let\'s do more of those!
+Namespaces are one honking great idea -- let's do more of those!
 ```
 
 Wisdom and first principles are often simple but not simplistic. That's why it's easy to overlook them. But sticking to them can really improve the quality of both the code and the review.
@@ -254,7 +256,7 @@ For example, a codebase may have been using single quote docstrings but you pref
 
 > "A Foolish Consistency is the Hobgoblin of Little Minds."
 >
-> --- *Guido van Rossum* ([source](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds))
+> - *Guido van Rossum* ([source](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds))
 
 So, make sure you're locally consistent before trying to achieve a general consistency.
 
@@ -264,7 +266,7 @@ Systems thinking is the ability or skill to perform problem solving in complex s
 
 > The whole is greater than the sum of the parts.
 >
-> --- Aristotle
+> - Aristotle
 
 It's easy to get pulled into the code block under review and forget the bigger picture. So, it's important to step back and think about what the code does without getting into the how immediately. That's where the quote from Aristotle comes into play. The code may work fine in isolation but cause issues when it runs as a part of a system.
 
