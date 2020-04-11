@@ -142,6 +142,15 @@ module.exports = {
         },
       },
     ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'warning',
+        defaultTitle: {
+          '/': 'NOTE',
+        },
+      },
+    ],
     ["@vuepress/plugin-google-analytics",
       {
         "ga": "UA-163301873-1"
