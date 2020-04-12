@@ -12,7 +12,7 @@ readingTime: 5
 image: "https://source.unsplash.com/3y1zF4hIPCg/800x400"
 ---
 
-A lot of fun riddles are circulating in news feeds in social medias. Here's one of them.
+With quarantines and lock-downs, most people around the world are stuck and bored in their houses. A lot of fun riddles are circulating in news feeds on social medias. Here's one of those.
 
 ![riddle](/images/quiz.jpg)
 
