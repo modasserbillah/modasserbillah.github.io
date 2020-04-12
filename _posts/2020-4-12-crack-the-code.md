@@ -9,7 +9,7 @@ location: Cumilla, Bangladesh
 title: Crack the Code
 description: "A fun challenge for the weekend."
 readingTime: 5
-image: "https://source.unsplash.com/HdZWKPt7L2o/800x400"
+image: "https://source.unsplash.com/3y1zF4hIPCg/800x400"
 ---
 
 A lot of fun riddles are circulating in news feeds in social medias. Here's one of them.
@@ -24,17 +24,18 @@ from itertools import product
 
 def first_fifth_condition(candidate, condition):
     common_elements = [digit for digit in candidate if digit in condition]
-    return ( (len(common_elements) == 1)
-            and (candidate.index(common_elements[0]) != condition.index(common_elements[0]))
-           )
+    return (len(common_elements) == 1) and (
+        candidate.index(common_elements[0]) != condition.index(common_elements[0])
+    )
 
 
 def second_condition(candidate):
-    condition = (1,8,9)
+    condition = (1, 8, 9)
     common_elements = [digit for digit in candidate if digit in condition]
-    return ( (len(common_elements) == 1)
-            and (candidate.index(common_elements[0]) == condition.index(common_elements[0]))
-           )
+    return (len(common_elements) == 1) and (
+        candidate.index(common_elements[0]) == condition.index(common_elements[0])
+    )
+
 
 def third_condition(candidate):
     condition = (9, 6, 4)
@@ -48,7 +49,7 @@ def third_condition(candidate):
 
 
 def fourth_condition(candidate):
-    condition = (5,2,3)
+    condition = (5, 2, 3)
     common_elements = [digit for digit in candidate if digit in condition]
     return len(common_elements) == 0
 
@@ -57,18 +58,20 @@ def find_code():
     # for completeness test all possible permutations with repetition of digits for length 3.
     # We can further optimize by eliminating 0,5,2,3 from the possible candidate calculation.
     for candidate in product(range(10), repeat=3):
-        if ( first_fifth_condition(candidate, (1,4,7))
-           and second_condition(candidate)
-           and third_condition(candidate)
-           and fourth_condition(candidate)
-           and first_fifth_condition(candidate, (2, 8, 6))
-           ):
-            return ''.join(map(str, candidate))
+        if (
+            first_fifth_condition(candidate, (1, 4, 7))
+            and second_condition(candidate)
+            and third_condition(candidate)
+            and fourth_condition(candidate)
+            and first_fifth_condition(candidate, (2, 8, 6))
+        ):
+            return "".join(map(str, candidate))
     return "No solution found."
 
 
 if __name__ == "__main__":
-	print(find_code())
+    print(find_code())
+
 ```
 
 Got better code to crack the code? Share links to your solution in the comments! Happy hacking!  
