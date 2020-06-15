@@ -61,7 +61,9 @@ for number in generate5:
 ```
 
 You won't see any output.
-[GIF]
+
+![Where did it go?](https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif)
+
 
 Well, this is what generators do. They generate values on the fly and then stop. You can't run them again and again unless you run `generate5 = generate_numbers(5)` each time. Generally people will tell you in cases like this you should use a list. 
 

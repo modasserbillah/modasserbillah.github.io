@@ -6,17 +6,7 @@ module.exports = {
     personalPhoto: "/images/op.png", // the base directory for this image is the public directory
     fullName: "Modasser Billah", // appears in about page
     bio:
-    `AHM Modasser Billah. Nicknamed Tishad. \
-      I write codes for a living and\
-       blogs for fun. So, don't mind the sporadic posts.\
-       \
-      Interested in software engineering and data science,\
-      also in books and  comics. Currently working remotely as a \
-      Lead Software Engineer for BriteCore. You can check out my full \
-      profile and certifications on Linkedin.\
-      You can also have a chat about any of my interests or your interests \
-      and projects, just hit me up at any of my listed social medias to get \
-      in contact.`, // appears in about page
+    `Generalist Software Engineer with passionate interest in software engineering best practices, engineering management and data science. Specialized in Backend development with Django and Flask in Python, frontend development with Vue JS, data analysis with Python data science ecosystem. AWS Certified Developer Associate. Self-organized with a strong sense of ownership of responsibilities. Experienced in remote work and engineering leadership.`, // appears in about page
     nav: [
       {
         text: "Home",
