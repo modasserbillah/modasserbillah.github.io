@@ -9,7 +9,7 @@ location: Cumilla, Bangladesh
 title: Generate Generators Repeatedly
 description: "Hack a generator to produce results repeatedly."
 readingTime: 5
-image: "https://source.unsplash.com/3y1zF4hIPCg/800x400"
+image: "https://source.unsplash.com/daTYdZHaDWg/800x400"
 ---
 
 Generators are great. We all know it. They save us all the memory lists take up yet give us the same results and more. Well, almost. 
