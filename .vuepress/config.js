@@ -52,7 +52,7 @@ module.exports = {
         },
         {
           type: "mail",
-          link: "mailto:imtishad@gmail.com"
+          link: "mailto:modasser.freelance@gmail.com"
         }
       ],
       copyright: [
