@@ -44,7 +44,7 @@ The author starts his book with the bold claim above. But I'd say the content ap
 
 :bulb: Specify `indexes` field inside the `Meta` class:
 
-```
+```py
 Class Event(models.Model):
 	... # omitted for brevity
 	name = models.CharField(max_length=255)
@@ -161,7 +161,7 @@ WHERE le_attribute = 'le_frequently_used_value';
 
 	> `select_related` makes a JOIN to get data for each field name you pass in.
 
-	```
+	```py
     events = Event.objects.select_related('user').all()
     ```
 
@@ -175,7 +175,7 @@ WHERE le_attribute = 'le_frequently_used_value';
 
 	:bulb: `prefetch_related` to the rescue!
 
-	```
+	```py
     User.objects.all().prefetch_related('events')
     ```
 
@@ -185,7 +185,7 @@ WHERE le_attribute = 'le_frequently_used_value';
 
 - More ammunitions:
     - Use `only()` to specify which columns/attributes of a table/model to fetch
-    ```
+    ```py
     User.objects.only('name')
     ```
     - `defer()` is the opposite of `only()`. Defer fetching all columns that you don't need immediately.
