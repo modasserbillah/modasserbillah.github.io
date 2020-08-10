@@ -155,5 +155,17 @@ module.exports = {
         },
       },
     ],
+    [
+      "vuepress-plugin-mailchimp",
+      {
+        // You need to provide this plugin with your Mailchimp endpoint in order for it
+        // to know where to save the email address. See more detail in Config section.
+        endpoint: "https://modasserbillah.us17.list-manage.com/subscribe/post?u=fea76ce48aadcb3d3237bb274&amp;id=1d9e742a8e",
+        title: "Join Mailing List",
+        content: "Get new posts delivered to your inbox. No spam.",
+        submitText: "Subscribe"
+
+      }
+    ],
   ]
 };

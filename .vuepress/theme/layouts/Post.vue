@@ -25,7 +25,7 @@ import PostInfo from "@theme/components/PostInfo.vue";
 export default {
   components: {
     Toc,
-    PostInfo
+    PostInfo,
   }
 };
 </script>

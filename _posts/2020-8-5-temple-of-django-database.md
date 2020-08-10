@@ -13,7 +13,6 @@ readingTime: 9
 image: "https://spellbookpress.com/img/torch.jpg"
 ---
 
-
 I recently bought an interesting tech book themed on fantasy adventure. And it was money well spent. [***The Temple of Django Database Performance***](https://spellbookpress.com/books/temple-of-django-database-performance/) was a great read.
 > The only way to master Django is to master database performance. The difference between junior, mid-level and senior Django engineers is usually a function of this mastery.
 
@@ -99,6 +98,8 @@ Class Event(models.Model):
 :question: Why?
 
 :bulb: There can be many reasons. For appetisers, check your query plans after introducing an index to confirm whether the query plan chose to use the index.
+
+<SimpleNewsletter />
 
 - Tuning parameters/configs of the database can help, too. [This article](https://www.revsys.com/writings/postgresql-performance.html) has some nice pointers about this in Postgres.
 - If everything fails and indexes don't heal you, it may be a sign that you need to move some work out of the database and into your application, denormalise or move it into an asynchronous task.
@@ -235,3 +236,5 @@ WHERE le_attribute = 'le_frequently_used_value';
 I enjoyed the technical tidbits as much as I enjoyed the accompanying fantasy adventure. If you're interested to buy the book, head over to [Spellbook Press website](https://spellbookpress.com/books/temple-of-django-database-performance/). Support indie publishers!
 
 _Cover Image Credit: Spellbook Press web page of the book_
+
+<SimpleNewsletter />
