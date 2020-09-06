@@ -6,7 +6,7 @@ author: Modasser Billah
 location: Cumilla, Bangladesh
 title: Going Remote for Life
 description: "A quick guide to kickstarting your remote career"
-readingTime: 18
+readingTime: 15
 image: "https://source.unsplash.com/pPKBLaQ4iY8/800x500"
 ---
 
