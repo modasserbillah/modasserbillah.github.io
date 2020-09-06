@@ -269,4 +269,6 @@ Finally, don't take yourself or the job too seriously. Enjoy the nice things in 
 >You are not your job, you're the person you are.
 <div style="text-align:right">-Toni Morrison</div>
 
+If you have questions or want to talk to me, feel free to reach out to me. You can find my social media and email details in the footer.
+
 Now go get that job and say goodbye to office spaces!
