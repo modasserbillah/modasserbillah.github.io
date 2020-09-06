@@ -11,6 +11,7 @@
       <hr />
       <Content />
       <Toc />
+      <SimpleNewsletter />
       <ClientOnly v-if="$themeConfig.disqus">
         <Disqus :shortname="$themeConfig.disqus" />
       </ClientOnly>
