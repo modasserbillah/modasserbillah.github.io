@@ -7,7 +7,7 @@ location: Cumilla, Bangladesh
 title: Going Remote for Life
 description: "A quick guide to kickstarting your remote career"
 readingTime: 18
-image: ""
+image: "https://source.unsplash.com/pPKBLaQ4iY8/800x500"
 ---
 
 Remote work is trending. But the remote revolution started long before the pandemic and will stay powerful even after the hype subsides. As with any change, how well you adapt and improve will determine whether you get the better of remote work or run back to offices once the external factors go away.
