@@ -243,7 +243,7 @@ The benefits of writing will compound with time and your future self will thank 
 
 Networks are always the best source of leads and referrals. Make sure you grow meaningful connections along the way. Here's how you can start growing your network:
 
-:man_astronaut: Follow experts and veterans in your industry on social medias. I learnt about the opening in BriteCore from Daniel Feldroy's tweet. It worked out wonderfully well, I worked under him for a while at BriteCore and recently we started [bd.feldroy.com](https://bd.feldroy.com/) together!
+:man_astronaut: Follow experts and veterans in your industry on social medias. I learnt about the opening in BriteCore from Daniel Feldroy's tweet. It worked out wonderfully well, I worked under him for a while at BriteCore and recently we started [bd.feldroy.com](https://bd.feldroy.com/) together! [Update: Sadly we had to close it down due to the pandemic.]
 
 :bookmark: Subscribe to blogs and newsletters you like. Interact with them and grow your network.
 
