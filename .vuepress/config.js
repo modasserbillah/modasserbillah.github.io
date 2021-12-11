@@ -6,11 +6,15 @@ module.exports = {
     personalPhoto: "/images/new_dp.png", // the base directory for this image is the public directory
     fullName: "Modasser Billah", // appears in about page
     bio:
-    `Generalist Software Engineer with passionate interest in software engineering best practices, engineering management and data science. Specialized in Backend development with Django and Flask in Python, frontend development with Vue JS, data analysis with Python data science ecosystem. AWS Certified Developer Associate. Self-organized with a strong sense of ownership of responsibilities. Experienced in remote work and engineering leadership. Currently working as a Senior Backend Developer at Doist.`, // appears in about page
+    `Generalist Software Engineer with passionate interest in software engineering best practices, engineering management and data science. Specialized in Backend development with Django and Flask in Python, frontend development with Vue & React, data analysis with Python data science ecosystem. AWS Certified Developer Associate. Self-organized with a strong sense of ownership of responsibilities. Experienced in remote work and engineering leadership. Currently working as a Senior Backend Developer at Doist.`, // appears in about page
     nav: [
       {
         text: "Home",
         link: "/"
+      },
+      {
+        text: "Ship30for30",
+        link: "/ship/"
       },
       // {
       //   text: "Archive",
@@ -64,6 +68,7 @@ module.exports = {
       ]
     }
   },
+  smoothScroll: true,
   plugins: [
     [
       "@vuepress/blog",
@@ -76,6 +81,17 @@ module.exports = {
             layout: "IndexPost",
             itemLayout: "Post",
             itemPermalink: "/:year/:month/:day/:slug",
+            pagination: {
+              perPagePosts: 5
+            }
+          },
+          {
+            id: "ship",
+            dirname: "_ship",
+            path: "/ship/",
+            layout: "IndexPost",
+            itemLayout: "Post",
+            itemPermalink: "/ship/:year/:month/:day/:slug",
             pagination: {
               perPagePosts: 5
             }
