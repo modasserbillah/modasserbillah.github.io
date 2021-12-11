@@ -89,7 +89,7 @@ module.exports = {
             id: "ship",
             dirname: "_ship",
             path: "/ship/",
-            layout: "IndexPost",
+            layout: "Ship30Layout",
             itemLayout: "Post",
             itemPermalink: "/ship/:year/:month/:day/:slug",
             pagination: {
