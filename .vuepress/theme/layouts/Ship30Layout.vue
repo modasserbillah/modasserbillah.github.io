@@ -12,6 +12,7 @@
     </div>
     <BaseListLayout v-if="$pagination" />
     <Content v-else />
+    <SimpleNewsletter />
   </div>
 </template>
 

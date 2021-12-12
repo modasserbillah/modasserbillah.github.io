@@ -3,7 +3,15 @@
     <header id="header">
       <div class="header-wrapper">
         <div class="title">
-          <NavLink link="/" class="home-link">{{ $site.title }}</NavLink>
+          <router-link to="/" class="text-decoration-none m-0">
+            <div
+              v-if="$themeConfig.logo"
+              class="blog-logo"
+            >
+              <img :src="$themeConfig.logo" height="50px"/>
+            </div>
+          </router-link>
+          <!-- <NavLink link="/" class="home-link">{{ $site.title }}</NavLink> -->
         </div>
         <div class="header-right-wrap">
           <ul class="nav" v-if="$themeConfig.nav">
@@ -22,7 +30,7 @@
 import SearchBox from "@SearchBox";
 
 export default {
-  components: { SearchBox }
+  components: { SearchBox },
 };
 </script>
 
@@ -60,8 +68,6 @@ export default {
   height: 40px;
 
   .title {
-    // color #3eaf7c
-    // color lighten(#3eaf7c, 10%)
     /* flex 0 0 200px */
     color: #222;
     font-size: 22px;

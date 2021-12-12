@@ -3,6 +3,7 @@ module.exports = {
   description: "",
   theme: "@vuepress/theme-blog",
   themeConfig: {
+    logo: '/images/logo.png',
     personalPhoto: "/images/new_dp.png", // the base directory for this image is the public directory
     fullName: "Modasser Billah", // appears in about page
     bio:
