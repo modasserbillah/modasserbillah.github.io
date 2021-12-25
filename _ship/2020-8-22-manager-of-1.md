@@ -9,7 +9,7 @@ location: Cumilla, Bangladesh
 title: How to Become a Manager of One
 description: "The ultimate skill to thrive at remote work"
 readingTime: 3
-image: "https://source.unsplash.com/uSsDbQ1zico/800x500"
+image: "https://source.unsplash.com/zNRITe8NPqY/800x500"
 ---
 
 
