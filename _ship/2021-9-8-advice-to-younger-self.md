@@ -20,7 +20,7 @@ Here's what I wish I knew as a new developer 👇🏾
 #ship30for30
 
 ## Image Version
-![Day 22 Essay](/images/ship/day22.png)
+![Day 22 Essay](/images/ship/8-advice-new-dev.png)
 
 
 ## Text version

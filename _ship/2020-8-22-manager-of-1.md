@@ -85,4 +85,4 @@ Breaks help us replenish concentration and works like magic to untangle hard pro
 
 Taking vacations is the logical next step. One sign of managing yourself well is to know when you need long resets. The better sign is to allow yourself to take it more often.
 
-Once these are in place, remote work becomes the _Afghan_ terrain and you become the _Taliban_. Your competition will have the watches but you'll have all the time to succeed.
+Once these are in place, remote work becomes the _Afghan_ terrain and you become the _Taliban_. [Your competition will have the watches but you'll have all the time to succeed](https://www.macleans.ca/news/fighting-in-afghanistan-you-have-the-watches-we-have-the-time/).
