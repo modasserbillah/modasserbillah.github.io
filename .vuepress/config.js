@@ -7,7 +7,7 @@ module.exports = {
     personalPhoto: "/images/new_dp.png", // the base directory for this image is the public directory
     fullName: "Modasser Billah", // appears in about page
     bio:
-    `Generalist Software Engineer with passionate interest in software engineering best practices, engineering management and data science. Specialized in Backend development with Django and Flask in Python, frontend development with Vue & React, data analysis with Python data science ecosystem. AWS Certified Developer Associate. Self-organized with a strong sense of ownership of responsibilities. Experienced in remote work and engineering leadership. Currently working as a Senior Backend Developer at Doist.`, // appears in about page
+    `Generalist Software Engineer with passionate interest in software engineering best practices, engineering management and data science. Specialized in Backend development with Python, frontend development with Vue & React, data analysis with Python data science ecosystem. AWS Certified Developer Associate. Self-organized with a strong sense of ownership of responsibilities. Experienced in remote work and engineering leadership. Currently working as a Backend Lead at Doist.`, // appears in about page
     nav: [
       {
         text: "Home",
