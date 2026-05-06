@@ -6,6 +6,16 @@
         <h1>{{ $themeConfig.fullName }}</h1>
       </div>
       <p>{{ $themeConfig.bio }}</p>
+      <ul class="personal-contact" v-if="$themeConfig.phone || $themeConfig.email">
+        <li v-if="$themeConfig.phone">
+          <PhoneIcon size="16" />
+          <a :href="'tel:' + $themeConfig.phone">{{ $themeConfig.phone }}</a>
+        </li>
+        <li v-if="$themeConfig.email">
+          <MailIcon size="16" />
+          <a :href="'mailto:' + $themeConfig.email">{{ $themeConfig.email }}</a>
+        </li>
+      </ul>
       <hr />
       <ul class="contact" v-if="contact">
         <li class="contact-item" v-for="item in contact">
@@ -26,7 +36,8 @@ import {
   TwitterIcon,
   InstagramIcon,
   LinkedinIcon,
-  MailIcon
+  MailIcon,
+  PhoneIcon
 } from "vue-feather-icons";
 
 export default {
@@ -36,7 +47,8 @@ export default {
     TwitterIcon,
     InstagramIcon,
     LinkedinIcon,
-    MailIcon
+    MailIcon,
+    PhoneIcon
   },
 
   methods: {
@@ -113,6 +125,29 @@ export default {
 
   p {
     padding: 20px 40px 0px 40px;
+  }
+
+  .personal-contact {
+    list-style: none;
+    padding: 0 40px;
+    margin: 10px 0;
+
+    li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 8px 0;
+
+      a {
+        color: inherit;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
   }
 
   .contact {
